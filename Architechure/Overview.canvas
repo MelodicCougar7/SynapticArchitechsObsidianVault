@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"2cebf0cedd5a9762","type":"file","file":"Architechure/ContinentPath.md","x":-40,"y":-200,"width":400,"height":400}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
