@@ -77,7 +77,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,7 +188,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "74d307faf8ae451b",
+  "active": "337d08f78d47671c",
   "lastOpenFiles": [
     "Architechure",
     "Welcome.md",
