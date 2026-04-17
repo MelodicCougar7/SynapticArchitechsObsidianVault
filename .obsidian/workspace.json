@@ -11,17 +11,14 @@
             "id": "74d307faf8ae451b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Architechure/Overview.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "MC Pathfinding/Node.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Overview"
+              "icon": "lucide-file",
+              "title": "Node"
             }
           }
         ]
@@ -97,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architechure/Overview.canvas",
+                "file": "Architechure/ContinentPath.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for ContinentPath"
             }
           },
           {
@@ -116,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architechure/Overview.canvas",
+                "file": "Architechure/ContinentPath.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overview"
+              "title": "Outgoing links from ContinentPath"
             }
           },
           {
@@ -159,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architechure/Overview.canvas",
+                "file": "Architechure/ContinentPath.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview"
+              "title": "Outline of ContinentPath"
+            }
+          },
+          {
+            "id": "535a85dbe0f4cd0d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +196,19 @@
   },
   "active": "74d307faf8ae451b",
   "lastOpenFiles": [
-    "Architechure/ContinentPath.md",
+    "MC Pathfinding/MC Pathfinding.canvas",
+    "MC Pathfinding/Node.md",
     "Architechure/Overview.canvas",
+    "MC Pathfinding",
+    "Architechure/Pathfinding Overview.md",
+    "Architechure/Sim/ContinentPath.md",
+    "Architechure/Sim/Chunk Path.md",
+    "Architechure/MC/Flow Field.md",
+    "Mindcelium/About.md",
+    "Mindcelium/Philosophy.md",
+    "Mindcelium",
+    "Architechure/MC",
+    "Architechure/Sim",
     "Architechure",
     "Welcome.md"
   ]

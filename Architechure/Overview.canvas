@@ -1,8 +1,52 @@
 {
 	"nodes":[
-		{"id":"2cebf0cedd5a9762","type":"file","file":"Architechure/ContinentPath.md","x":-40,"y":-200,"width":400,"height":400}
+		{"id":"a7ccd24ffa64ec60","type":"file","file":"Architechure/Pathfinding Overview.md","x":-1200,"y":-200,"width":400,"height":400},
+		{"id":"2cebf0cedd5a9762","type":"file","file":"Architechure/Sim/ContinentPath.md","x":-680,"y":-200,"width":400,"height":400,"color":"5"},
+		{"id":"31744beeab2f61cd","type":"file","file":"Architechure/Sim/Chunk Path.md","x":-680,"y":320,"width":400,"height":400,"color":"5"},
+		{
+			"id":"4f9b6f7b215febd9",
+			"type":"text",
+			"text":"Sim Side",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-610,
+			"y":-410,
+			"width":260,
+			"height":60,
+			"color":"5"
+		},
+		{"id":"d58ed6f220f0fd90","type":"file","file":"Architechure/MC/Flow Field.md","x":-40,"y":320,"width":400,"height":400,"color":"1"},
+		{
+			"id":"1b68716142bfef42",
+			"type":"text",
+			"text":"MC Side",
+			"styleAttributes":{"textAlign":"center"},
+			"x":30,
+			"y":-410,
+			"width":260,
+			"height":60,
+			"color":"1"
+		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"60b5b5d9bc2f7594",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"2cebf0cedd5a9762",
+			"fromSide":"bottom",
+			"toNode":"31744beeab2f61cd",
+			"toSide":"top"
+		},
+		{
+			"id":"67b81a045a7b6ea8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"31744beeab2f61cd",
+			"fromSide":"right",
+			"toNode":"d58ed6f220f0fd90",
+			"toSide":"left"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

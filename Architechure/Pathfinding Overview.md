@@ -1,0 +1,1 @@
+Generally speaking, we'll be using A\* pathfinding to first determine a "general path" for mobs to follow. Then, we'll use A\* sharp again to ensure that they can actually get through the first path. 
